@@ -22,3 +22,7 @@ encrypt(text, shift)
 
 # TODO-3: Call the 'encrypt()' function and pass in the user inputs. You should be able to test the code and encrypt a
 #  message.
+
+def ceaser(original_text=text, shift_amount=shift, direction=direction): new*
+
+
